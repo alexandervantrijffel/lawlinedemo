@@ -4,6 +4,7 @@
   "description": "Demo for highly performant, easily maintainable lawline.se",
   "version": "0.1.0",
   "author": "Alexander van Trijffel",
+  "browserslist": ["defaults"],
   "dependencies": {
     "@types/node": "^14.14.20",
     "@types/react": "^17.0.0",
