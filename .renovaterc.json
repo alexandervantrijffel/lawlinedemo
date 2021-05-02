@@ -1,5 +1,5 @@
 {
-  "extends": ["github>alexandervantrijffel/formwizard"],
+  "extends": ["github>alexandervantrijffel/lawlinedemo"],
   "ignoreDeps": ["renovate"],
   "prCreation": "immediate",
   "labels": ["ready-to-merge"],
