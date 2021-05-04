@@ -3,6 +3,7 @@ version = 1
 [merge]
 prioritize_ready_to_merge = true
 automerge_label = "ready-to-merge"
+automerge_dependencies.versions = ["minor", "patch"]
 
 # require that the automerge label be set for Kodiak to merge a PR. if you
 # disable this Kodiak will immediately attempt to merge every PR you create
