@@ -28,7 +28,7 @@
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-remark": "^2.16.1",
     "gatsby-transformer-sharp": "^2.12.1",
-    "highlight.js": "10.7.3",
+    "highlight.js": "11.1.0",
     "ini": "^2.0.0",
     "prismjs": "^1.24.1",
     "react": "16.14.0",
