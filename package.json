@@ -9,7 +9,7 @@
   ],
   "dependencies": {
     "@types/node": "14.17.16",
-    "@types/react": "^17.0.20",
+    "@types/react": "^17.0.21",
     "@types/react-dom": "17.0.9",
     "axios": "^0.21.4",
     "gatsby": "^2.32.13",
